@@ -1,0 +1,18 @@
+MISIÓN DIGITAL — CTE 2026-2027
+Escuela Primaria Roberto Vega Mandujano T.V.
+Presentan: Profr. Jesús Ernesto Zenteno Ibarra y Profr. Alan Eduardo Molina Rodriguez.
+
+1. Extrae todos los archivos del ZIP en una misma carpeta. Abre index.html en Chrome o Edge. Para compartir como página, publica la carpeta completa en un alojamiento estático (por ejemplo GitHub Pages). Esta entrega no está publicada y no incluye enlace público.
+2. Cada participante registra su nombre y responde los siete módulos. Las respuestas se guardan en el navegador del dispositivo. No se envían a un servidor. Evita usar nombres o datos de alumnos.
+3. Para reunir resultados de diferentes dispositivos, cada docente pulsa Descargar mi evidencia al concluir y comparte el archivo JSON con los expositores mediante el canal que acuerden. En el equipo del expositor entra al Panel expositor (PIN 8274), Importar evidencias JSON y selecciona los archivos recibidos. Se puede exportar CSV, imprimir o guardar como PDF usando el cuadro de impresión del navegador y descargar un respaldo colectivo.
+4. Códigos de las estaciones: 01 libre; 02 2612; 03 3846; 04 4938; 05 5729; 06 6482; 07 7091. La aplicación verifica el orden. Los códigos y PIN son controles didácticos locales y no son autenticación segura.
+5. La biblioteca abre el PDF del CTE incluido. El laboratorio de IA usa un caso simulado; no llama a un servicio de IA. Puede complementarse con una demostración del expositor con datos ficticios.
+6. Tiempo sugerido: 10 + 15 + 10 + 15 + 20 + 15 + 5 = 90 minutos. El cronómetro se activa manualmente.
+7. La sincronización en vivo entre teléfonos requiere una base de datos compartida, configuración de acceso y publicación; no está implementada en esta versión. Resguarda los resultados y evita publicar archivos de evidencia o el CSV. No se requiere internet para usar la aplicación local y el documento incluido.
+
+
+VERSIÓN 2 — INSIGNIAS Y PUNTUACIÓN
+8. Publica index.html, documento-cte.pdf y la carpeta insignias (con sus cinco archivos WebP), conservando la estructura. LEEME.txt es opcional para la publicación; conserva una copia local.
+9. Puntuación: 60 × estaciones completadas/7 + 40 × aciertos/6, redondeada al entero más cercano. El diagnóstico y las respuestas abiertas cuentan por completar la estación, no se juzgan por su contenido. No se premia la velocidad. Las correcciones de respuestas actualizan los puntos. No es una evaluación del desempeño docente.
+10. Al concluir los siete módulos aparece el botón Revelar mi insignia; se abre un reconocimiento personalizado imprimible como PDF, con efecto de sonido opcional. Rangos: 60–69 Explorador Digital; 70–79 Analista Conectado; 80–89 Guardián Digital; 90–99 Estratega de IA; 100 Líder de Innovación. Si faltan módulos se muestra un reconocimiento provisional de participación, no una insignia final.
+11. Los resultados y el CSV incluyen los puntos, insignia y estado. Se conservan los códigos, el PIN y la compatibilidad con evidencias JSON de la versión 1. La conexión Firebase sigue pendiente: el panel local reúne los JSON que se importan. No publiques resultados ni respaldos en GitHub.
